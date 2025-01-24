@@ -31,8 +31,7 @@
 
 
 ### Team Strucutre:
-- Aditya Pise: Literature Survey, Dataset Creation, CNN Model creation, 
-Documentation
+### - Aditya Pise: Literature Survey, Dataset Creation, CNN Model creation, Documentation
 - Suraj Gawade: Literature Survey, Dataset Creation, CNN Model Creation, 
 Documentation 
 - Saurabh Kumatkar: Literature Survey, Dataset Creation, Web Application 
